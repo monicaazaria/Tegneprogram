@@ -1,6 +1,6 @@
+com/example/Figur.class
 com/example/Rektangel.class
-com/example/LineShape.class
-com/example/DrawingPane.class
-com/example/CircleShape.class
-com/example/App.class
-com/example/Main.class
+com/example/MainApp.class
+com/example/TegnePane.class
+com/example/Linje.class
+com/example/Sirkel.class
